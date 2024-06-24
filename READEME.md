@@ -1,0 +1,1 @@
+Esta Pasta conterá pequenos softwares desenvolvidos para auxilio da empresa de contabilidade Jota Contábil.
